@@ -25,6 +25,6 @@ To compile and run this project, you need:
 2. Compile the source code using the following command (make sure to link the pthread library):
    ```bash
    gcc main.c board.c -o warcaby -pthread
+   ```
 
-
-   Starting the program: ./warcaby
+Starting the program: ./warcaby
