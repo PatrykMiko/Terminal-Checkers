@@ -27,4 +27,4 @@ To compile and run this project, you need:
    gcc main.c board.c -o warcaby -pthread
    ```
 
-Starting the program: ./warcaby
+Starting the program: `./warcaby`
